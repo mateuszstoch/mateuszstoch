@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, I'm Mateusz
 💻 Software Engineer<br>👨‍🎓 Studying Computer Science at [AGH University in Cracow](https://www.agh.edu.pl)
 
 
